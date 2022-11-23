@@ -6,5 +6,6 @@
   list-style: none;
 }
 .banner-image {
-  background-image: url(../img/favicon.png);
+  background-image: url("../img/favicon.png");
+  background-size: cover;
 }
